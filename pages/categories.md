@@ -2,7 +2,7 @@
 layout: categories
 title: Categories
 permalink: /categories/
-hide: true
-excluded: true
+hide: false
+excluded: false
 showCounts: false
 ---
