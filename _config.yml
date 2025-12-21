@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/s-bahn-potsdam"
 url: "https://bkfirmen.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
